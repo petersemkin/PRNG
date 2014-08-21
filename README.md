@@ -1,7 +1,7 @@
 Pseudorandom Number Generator
 =============================
 
-Here is the Pseudorandom Number Generator written on .NET and the NIST test to check its cryptographic quality.
+Here is the Pseudorandom Number Generator written in C# on a project for Cryptographic Techniques of Information Security at my university. It also contains the NIST test to check generator's cryptographic quality.
 
 The generator is based on the three linear feedback shift registers (LFSR):
 1. LSFR-1 of length 27 (the tapped bits are 1, 2, 5, 27),
