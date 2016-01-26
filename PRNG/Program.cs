@@ -16,7 +16,7 @@ namespace PRNG
             //Console.ReadLine();
             #endregion
 
-            PRNG_Test.Run();
+            Example.Run();
         }
     }
 }

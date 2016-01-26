@@ -6,7 +6,7 @@ using CryptoMath;
 
 namespace PRNG
 {
-    static class PRNG_Test
+    static class Example
     {
         #region Background Information
 
